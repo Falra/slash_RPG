@@ -83,6 +83,7 @@ Content
 **/Megascans
 **/StarterContent
 **/Assets
+**/MSPresets
 !/Content/__ExternalActors__/**
 !/Content/__ExternalObjects__/**
 !/Content/Landscape/**
